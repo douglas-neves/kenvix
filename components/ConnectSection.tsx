@@ -29,10 +29,10 @@ export function ConnectSection() {
             "
           >
             <span className="block md:inline lg:block">Da China</span>{" "}
-            <span className="block md:inline lg:block">aos marketplaces.</span>
+            <span className="block md:inline lg:block">direto para o atacado.</span>
           </h2>
           <p className="mt-4 max-w-[320px] font-sans text-[14px] leading-[1.5] text-[color:var(--color-text-muted)] md:max-w-[480px] lg:max-w-none">
-            Importação direta e presença em todos os principais marketplaces do Brasil.
+            Importação de lotes por atacado com logística B2B dedicada e entrega pronta para estoque.
           </p>
 
           <div className="mt-8 hidden lg:block">
